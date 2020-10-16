@@ -11,7 +11,7 @@ _This webpage was created as my independent project for my first week at Epicodu
 ## Setup/Installation Requirements
 
 * _Open your browser_
-* _Navigate to_
+* _Navigate to https://zahnen.github.io/portfolio_
 * _Click "Home", "About", or "Work" to navigate between pages_
 * _Click the images above any of the project descriptions under "Work" to access the GitHub repository for the indicated project_
 
