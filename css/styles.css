@@ -1,0 +1,31 @@
+.leftjumbo {
+  float: left;
+}
+.rightjumbo {
+  float: right;
+  float: top;
+}
+.imgcenter {
+  margin: auto;
+  width: 200px;
+  height: auto;
+  display: block;
+  border-radius: 50% !important;
+}
+.box1 {
+  width: 10%;
+  float: right;
+  border-radius: 20px;
+  background-color: #e9ecef;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+.box2 {
+  position: fixed;
+  bottom: 5%;
+  right: 5%;
+  width: 10%;
+  border-radius: 50px;
+  background-color: #e9ecef;
+  text-align: center;
+}
