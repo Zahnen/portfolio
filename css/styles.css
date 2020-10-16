@@ -1,9 +1,14 @@
 body {
   background-color: #f4f1de;
   color: #606c38;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .jumbotron {
   background-color: #f4f1de;
+}
+.jumbotron h1 {
+  font-size: 48px;
+  font-weight: bold;
 }
 .card {
   background-color: #f4f1de;
@@ -45,4 +50,8 @@ body {
 .btn-outline-secondary {
   color: #606c38;
   border-color: #606c38;
+}
+.slightbold {
+  font-style: oblique;
+  font-weight: 650;
 }
